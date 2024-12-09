@@ -387,7 +387,7 @@ namespace ECommerceSystem
 // OrderServiceTests.cs
 using NUnit
 
-.Framework;
+using NUnit.Framework;
 
 namespace ECommerceSystem.Tests
 {
